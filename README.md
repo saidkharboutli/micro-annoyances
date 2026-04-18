@@ -1,4 +1,4 @@
-# The Solutions to all my Micro Annoyances
+# The Solutions to All My Micro Annoyances
 
 ## Background
 
